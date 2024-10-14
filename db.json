@@ -1,0 +1,39 @@
+{
+  "packages": [
+    {
+      "id": 1,
+      "title": "Thailand",
+      "description": "Thailand is a middle power in global affairs and a founding member of ASEAN. It has the second-largest economy in Southeast Asia and the 23rd-largest in the ...",
+      "price": "40000",
+      "imageUrl": "https://i.postimg.cc/hGTdJNYx/blog-post-14979-457782-ttw.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Kerala",
+      "description": "Kerala is the 21st largest Indian state by area. It is bordered by Karnataka to the north and northeast, Tamil Nadu to the east and south, and the Lakshadweep ...",
+      "price": "6000",
+      "imageUrl": "https://i.postimg.cc/ZqzFdbdd/premium-photo-1697729432049-caca66a1dab6.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Singapore",
+      "description": "Singapore is a sunny, tropical island in Southeast Asia, off the southern tip of the Malay Peninsula. The city-state is 710 square kilometres and inhabited...",
+      "price": "25000",
+      "imageUrl": "https://i.postimg.cc/W13R1vhW/all-types-of-tour-services-1.jpg"
+    },
+    {
+      "title": "Goa",
+      "description": "Goa is a state in western India with coastlines stretching along the Arabian Sea. Its long history as a Portuguese colony prior to 1961 is evident in its",
+      "price": "8000",
+      "imageUrl": "https://www.mypunepulse.com/wp-content/uploads/2024/04/Goa.jpeg",
+      "id": 4
+    },
+    {
+      "imageUrl": "https://lp-cms-production.imgix.net/features/2017/09/dubai-marina-skyline-2c8f1708f2a1.jpg?w=1440&h=810&fit=crop&auto=format&q=75",
+      "description": "Dubai is a city and emirate in the United Arab Emirates known for luxury shopping, ultramodern architecture and a lively nightlife scene. Burj Khalifa",
+      "title": "Dubai",
+      "price": "50000",
+      "id": 5
+    }
+  ]
+}
